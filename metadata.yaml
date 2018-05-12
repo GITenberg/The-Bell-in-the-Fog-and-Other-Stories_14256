@@ -1,0 +1,36 @@
+_repo: The-Bell-in-the-Fog-and-Other-Stories_14256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Horn, Gertrude Franklin
+    - Lin, Frank
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_issued: '2004-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+tableOfContents: The bell in the fog -- The striding place -- The dead and the countess
+  -- The greatest good of the greatest number -- A monarch of a small survey -- The
+  tragedy of a snob -- Crowned with one crest -- Death and the woman -- A prologue
+  (to an unwritten play) -- Talbot of Ursula.
+title: The Bell in the Fog and Other Stories
+url: http://www.gutenberg.org/ebooks/14256
